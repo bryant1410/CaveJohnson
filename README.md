@@ -16,7 +16,7 @@ In true Unix style, these commands can all be used separately:
 * Submit to iTunesConnect (new TestFlight) so you can get fully automatic deployments
 * Submit to HockeyApp
 
-#Examples
+# Examples
 
 Report status to GitHub inside trigger
 
@@ -76,7 +76,7 @@ cavejohnson uploadiTunesConnect --itunes-app-id 12345678 --itunes-username me@me
 
 This works around some [Xcode CLI bugs](http://faq.sealedabstract.com/xcodeCI/#the-case-of-the-missing-swiftsupport) and sends the fixed IPA to iTunesConnect.
 
-#install
+# install
 
 Requires Python 3
 
